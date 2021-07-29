@@ -1,2 +1,2 @@
 # Power-BI
-Repo for Power Bi projects 
+Repo for Power BI projects 
