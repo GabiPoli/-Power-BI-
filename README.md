@@ -7,3 +7,5 @@ __**Projects:**__
 **- Sales Dashboard:** https://bit.ly/37zXPML
 
 **- Grocery Store Dashboard:** https://bit.ly/3yILJwK
+
+**- Stock Quotes Dashboard:** https://bit.ly/3knQfek
