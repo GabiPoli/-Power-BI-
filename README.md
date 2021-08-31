@@ -10,4 +10,4 @@ __**Projects:**__
 
 **- Stock Quotes Dashboard:** https://bit.ly/3knQfek
 
-**- Dashboard Link:** https://bit.ly/3jvxLJD
+**- Logistic Dashboard:** https://bit.ly/3jvxLJD
