@@ -11,3 +11,5 @@ __**Projects:**__
 **- Stock Quotes Dashboard:** https://bit.ly/3knQfek
 
 **- Logistic Dashboard:** https://bit.ly/3jvxLJD
+
+**- Human Resources Dashboard:** https://bit.ly/3ytAyas
