@@ -13,3 +13,5 @@ __**Projects:**__
 **- Logistic Dashboard:** https://bit.ly/3jvxLJD
 
 **- Human Resources Dashboard:** https://bit.ly/3ytAyas
+
+**- Trading Journal:** https://bit.ly/3onLpBs
