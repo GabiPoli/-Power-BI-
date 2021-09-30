@@ -10,7 +10,7 @@ Dashboard link: https://bit.ly/3onLpBs
 
 <img src="https://user-images.githubusercontent.com/86684420/135499692-ae65ad37-8ed0-4118-8a9d-0ce246375206.png" width="50%"></img>
 
-**2- On the second page I explore deeper the numbers based on the strategies, weekday performance and market hour.**
+**2- On the second page I explored deeper the numbers based on the strategies, weekday performance and market hour.**
 
 <img src="https://user-images.githubusercontent.com/86684420/135499831-d304e211-81fa-4aaf-9a5f-2dfe78220128.png" width="50%"></img> 
 
