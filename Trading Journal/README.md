@@ -6,7 +6,7 @@ Dashboard link: https://bit.ly/3onLpBs
 - The Dashboard has 3 pages showing different data and performance over the years.
 - I also include some indexes data, where I scrape it from yahoo finance   
 
-**1- On the first page there are two types of pnl charts and some general information about average trade, number of total trades, biggest gain/loss, etc. On the line chart I included a confidence interval of 90% - 1 month.**
+**1- On the first page there are two types of pnl charts and some general information such as average trade, number of total trades, biggest gain/loss, etc. On the line chart I included a confidence interval of 90% - 1 month.**
 
 <img src="https://user-images.githubusercontent.com/86684420/135499692-ae65ad37-8ed0-4118-8a9d-0ce246375206.png" width="50%"></img>
 
