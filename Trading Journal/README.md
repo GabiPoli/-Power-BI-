@@ -1,3 +1,6 @@
+
+Dashboard link: 
+
 - I created this dashboard to simulate a trading journal. I used some functions in Python and create random numbers and words to use as Pnl and strategies respectively.
 - The tables as in the Table folder.
 - The Dashboard has 3 pages showing different data and performance over the years.
