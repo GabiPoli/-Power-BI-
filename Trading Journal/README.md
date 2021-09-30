@@ -14,7 +14,7 @@ Dashboard link: https://bit.ly/3onLpBs
 
 <img src="https://user-images.githubusercontent.com/86684420/135499831-d304e211-81fa-4aaf-9a5f-2dfe78220128.png" width="50%"></img> 
 
-**3- On the third page I included a monthly calendar where the trader can see the picture the trade performance by day. I added on the left side the Fomo (Fear of missing out) sentiment - a common stats among traders, as well as the execution reason by week. The day by day performance and weekly sentiment helps the trader to understand and control yours feelings and adjust it accordingly.**
+**3- On the third page I included a monthly calendar where the trader can see the trades by day. I added on the left side the Fomo (Fear of missing out) sentiment - a common stats among traders, as well as the execution reason by week. The day by day performance and weekly sentiment helps the trader to understand and control yours feelings and adjust it accordingly.**
 
 <img src="https://user-images.githubusercontent.com/86684420/135500015-96c6e06b-2503-4f99-b424-902fe9a60125.png" width="50%"></img>
 
