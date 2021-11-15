@@ -15,3 +15,6 @@ __**Projects:**__
 **- Human Resources Dashboard:** https://bit.ly/3ytAyas
 
 **- Trading Journal:** https://bit.ly/3onLpBs
+
+**- Project Management:** https://bit.ly/324A686
+
